@@ -4,4 +4,3 @@ opencv-python-headless
 numpy
 Pillow
 cvzone
-git+https://github.com/facebookresearch/detectron2.git
